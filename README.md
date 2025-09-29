@@ -23,7 +23,10 @@ Este repositório documenta meus aprendizados com **computação em nuvem**, foc
 | Permite ampliar espaço de disco | Acessível via web e APIs | Ideal para automações e micro-serviços |
 
 ---
+## 📁 Link Drawio com Diagrama visual]
 
+https://drive.google.com/file/d/1Sk8iWWS9JZsdmpKNw_G5IMlHJyZ8hIGN/view?usp=drive_link
+---
 ## 📌 Estrutura do Repositório
 
 /docs → Documentação adicional
